@@ -1,5 +1,7 @@
 Final Code Results from 2019 Summer REU
+
 By: Amber Nguyen, Matt Matusiewicz, Nathaniel Efrat-Henrici
+
 Contact ambernguyen@umass.edu, matt.matu@berkeley.edu, and nefrathenrici@g.hmc.edu with any questions.
 
 Filesystem:
